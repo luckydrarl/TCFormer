@@ -1,0 +1,32 @@
+# External repos (clone separately)
+external/
+
+# Data files
+data/
+*.gdf
+*.mat
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+
+# Results (large logs/checkpoints)
+results/logs/
+results/checkpoints/
+results/plots/
+
+# IDE
+.vscode/
+.idea/
+
+# Conda env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

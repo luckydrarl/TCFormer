@@ -1,0 +1,5 @@
+model_name,mean_acc,std_acc
+TCFormer,62.27%,13.47%
+ATCNet,60.73%,13.16%
+EEGTCNet,54.86%,11.76%
+EEGConformer,46.18%,18.65%

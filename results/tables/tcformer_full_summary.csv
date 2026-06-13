@@ -1,0 +1,3 @@
+setting,mean_acc,std_acc
+Sub-Dep,83.72%,8.02%
+LOSO,62.27%,15.19%

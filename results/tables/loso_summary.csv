@@ -1,0 +1,2 @@
+model_name,mean_acc,std_acc,mean_kappa,std_kappa,mean_f1,std_f1,mean_latency_ms,params,flops
+TCFormer,0.6226777777777778,0.13468779353896573,0.4938333333333333,0.17831196756745685,,,18.13,121356,

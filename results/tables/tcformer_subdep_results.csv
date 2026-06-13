@@ -1,0 +1,10 @@
+model_name,test_subject,accuracy
+TCFormer,1,0.875
+TCFormer,2,0.7361
+TCFormer,3,0.9375
+TCFormer,4,0.8472
+TCFormer,5,0.7361
+TCFormer,6,0.7153
+TCFormer,7,0.9132
+TCFormer,8,0.8993
+TCFormer,9,0.875

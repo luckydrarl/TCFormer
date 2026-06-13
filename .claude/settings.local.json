@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(git config *)",
+      "Bash(env)",
+      "Bash(pip --version)",
+      "Bash(conda --version)",
+      "Bash(git ls-remote *)",
+      "Bash(curl -I \"https://ghproxy.com/https://github.com/altaheri/TCFormer\")",
+      "Bash(curl -I \"https://hub.fastgit.xyz/altaheri/TCFormer\")",
+      "Bash(netsh interface *)",
+      "Bash(ipconfig)",
+      "Bash(netsh winhttp *)",
+      "Read(//c/Users/SBW/.ssh/**)",
+      "Bash(pip config *)",
+      "Bash(conda config *)",
+      "Bash(cd *)",
+      "Bash(conda create *)",
+      "Bash(nvidia-smi)",
+      "Read(//c/Users/SBW/mne_data/**)",
+      "Read(//c/Users/SBW/**)",
+      "Bash(nvidia-smi *)",
+      "Bash(tasklist)",
+      "Bash(kill 7536)",
+      "Bash(taskkill *)",
+      "Bash(cmd.exe *)",
+      "Bash(python *)",
+      "Bash(awk '{print $2}')",
+      "Bash(read pid *)",
+      "Bash(grep -v \"^$\")",
+      "Bash(awk '{print $6,$7,$8}')",
+      "Bash(echo \"D:\\\\\\\\EEGnet\\\\\\\\unified_results\\\\\\\\tables\\\\\\\\\")",
+      "Bash(git remote *)",
+      "Bash(git add *)"
+    ]
+  }
+}

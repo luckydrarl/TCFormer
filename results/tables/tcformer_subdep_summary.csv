@@ -1,0 +1,2 @@
+model_name,mean_acc,std_acc,mean_kappa
+TCFormer,0.8372,0.0802,0.783
